@@ -82,6 +82,7 @@ namespace Voice_Recognition
                     Process myprc = GetProcess("notepad");
                     myprc.Kill();                    
                     break;
+                
             }
         }
 
